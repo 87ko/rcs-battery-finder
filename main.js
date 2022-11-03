@@ -183,7 +183,7 @@ class View {
 				<select id="model"class="input"></select>
 			</div>
 			<div class="step">
-				<p class="step-num">step3: Input Accessory Power Consumption</p>
+				<p class="step-num">step3: Input Accessory Power Consumptionm (0~100)</p>
 				<input id="power" class="input" type="number" min="0" max="100" value="0"/> W
 			</div>
 			<div class="step">
